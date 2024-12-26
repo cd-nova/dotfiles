@@ -140,6 +140,8 @@ alias j='z'
 export PATH=$HOME/.local/bin:$PATH
 export PATH="$PATH:/usr/local/texlive/2024/bin/x86_64-linux"
 
+# >>> Github Token
+GITHUBTOKEN="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"
 
 # bun
 export BUN_INSTALL="$HOME/.bun"
